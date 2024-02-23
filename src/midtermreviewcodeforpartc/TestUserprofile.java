@@ -7,7 +7,9 @@ package midtermreviewcodeforpartc;
 import java.util.Scanner;
 
 /**
- *
+ * I am currently in semester 3
+ * Today is my midterm
+ * I like the subject Software Development
  * @author user
  */
 
