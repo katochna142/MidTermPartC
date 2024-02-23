@@ -13,5 +13,5 @@ public class Navedita_Design {
     // I am learning it in my semester 3.
     // I also like Java and writing code.
     // I am also learning about using GIT. 
-    // Python AI is also a interesting subject to learn.
+   
 }
